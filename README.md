@@ -1,2 +1,2 @@
-# FirstBot
+# GiveAwayWebScrap
 A basic webscrapping bot
